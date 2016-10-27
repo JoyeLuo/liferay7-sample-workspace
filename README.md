@@ -1,0 +1,1 @@
+just a sample liferay-workspace project with some practice projects
